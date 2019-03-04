@@ -1,3 +1,3 @@
 # Brivity Knowledge Transfer
 
-Check WiKi for pages
+Check [Wiki](https://github.com/osho-sunflower/brivity-knowledge-transfer/wiki) for pages
